@@ -6,9 +6,13 @@ This event management system is an internet based web portal that allows users t
 The application is run using PHP and MySQL, and dynamically updates event and user information from the database. The front end of the project was designed using HTML, CSS and JavaScript.
 
 Front End: HTML, CSS, JavaScript
+
 Back End: PHP, JavaScript
+
 Database: MySQL
+
 Server: XAMPP (Apache Tomcat)
+
 
 How To Run The Application:
 1) Clone this repository
